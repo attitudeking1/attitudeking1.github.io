@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Tushar resporatory
 
-You can use the [editor on GitHub](https://github.com/attitudeking1/attitudeking1.github.io/edit/Lovely/README.md) to maintain and preview the content for your website in Markdown files.
+You can find me on...
+[Instagram](www.instagram.com/2004jan30)
+[Telegram](https://t.me/TheOfficialTushar)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
